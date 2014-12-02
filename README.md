@@ -5,7 +5,7 @@ I was having a hard time figuring out a way to create a responsibe Google Maps a
 
 In the PC view you will have a menu bar on top, a filter on the side, and the legend on the bottom of the page.
 
-![PC View of Application](https://github.com/MikeWills/GoogleMapsTemplate/raw/gh-pages/webView.png)
+![PC View of Application](//i.imgur.com/pq4fPCp.png)
 
 In the mobile view, you have the menu on the top with a button to expand the filter on the side and the legend will be shown by clicking the bottom button.
 
