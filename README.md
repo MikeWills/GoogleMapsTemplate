@@ -9,6 +9,6 @@ In the PC view you will have a menu bar on top, a filter on the side, and the le
 
 In the mobile view, you have the menu on the top with a button to expand the filter on the side and the legend will be shown by clicking the bottom button.
 
-![Mobile View of Application](https://github.com/MikeWills/GoogleMapsTemplate/raw/gh-pages/mobileView.png)
-![Mobile View of Filter](https://github.com/MikeWills/GoogleMapsTemplate/raw/gh-pages/webViewFilter.png)
-![Mobile View of Legend](https://github.com/MikeWills/GoogleMapsTemplate/raw/gh-pages/webViewLegend.png)
+![Mobile View of Application](https://i.imgur.com/b4QVHxI.png)
+![Mobile View of Filter](https://i.imgur.com/bQVelXU.png)
+![Mobile View of Legend](https://i.imgur.com/mfxg4RH.png)
