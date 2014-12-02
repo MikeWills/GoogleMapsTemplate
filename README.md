@@ -10,5 +10,5 @@ In the PC view you will have a menu bar on top, a filter on the side, and the le
 In the mobile view, you have the menu on the top with a button to expand the filter on the side and the legend will be shown by clicking the bottom button.
 
 ![Mobile View of Application](mobileView.png)
-![Mobile View of Filter](webViewFilter.png)
-![Mobile View of Legend](webViewLegend.png)
+![Mobile View of Filter](mobileViewFilter.png)
+![Mobile View of Legend](mobileViewLegend.png)
