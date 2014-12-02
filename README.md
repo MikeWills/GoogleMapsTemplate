@@ -1,7 +1,9 @@
 Google Maps Mobile Application Template
 ==========================
 
-I was having a hard time figuring out a way to create a responsibe Google Maps application template. Here is what I was able to put together.
+I was having a hard time figuring out a way to create a responsibe Google Maps application template. Learn more about this template from my [blog post](https://mikewills.me/2014/12/01/a-responsive-google-map-application-template.html).
+
+[View a working version of the application](https://mikewills.me/GoogleMapsTemplate/GoogleMapsTemplate/)
 
 In the PC view you will have a menu bar on top, a filter on the side, and the legend on the bottom of the page.
 
